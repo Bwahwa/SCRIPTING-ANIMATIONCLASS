@@ -352,10 +352,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.34f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Scripts/Objectmover.cs"
-"Assets/Scripts/ObjectPulse.cs"
-"Assets/Scripts/SimpleRotator.cs"
-"Assets/Scripts/TransformController.cs"
+"Assets/Scripts/Scripting2/Objectmover.cs"
+"Assets/Scripts/Scripting2/ObjectPulse.cs"
+"Assets/Scripts/Scripting2/SimpleRotator.cs"
+"Assets/Scripts/Scripting2/TransformController.cs"
+"Assets/Scripts/Scripting3/ApplyForce.cs"
+"Assets/Scripts/Scripting3/CollisionDetector.cs"
 -langversion:9.0
 /deterministic
 /optimize+
