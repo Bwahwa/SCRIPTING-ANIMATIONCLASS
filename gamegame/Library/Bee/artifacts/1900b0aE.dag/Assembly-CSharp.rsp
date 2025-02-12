@@ -358,6 +358,8 @@
 "Assets/Scripts/Scripting2/TransformController.cs"
 "Assets/Scripts/Scripting3/ApplyForce.cs"
 "Assets/Scripts/Scripting3/CollisionDetector.cs"
+"Assets/Scripts/Scripting3/ColorOnCollision.cs"
+"Assets/Scripts/Scripting3/GrowOnCollision.cs"
 -langversion:9.0
 /deterministic
 /optimize+
