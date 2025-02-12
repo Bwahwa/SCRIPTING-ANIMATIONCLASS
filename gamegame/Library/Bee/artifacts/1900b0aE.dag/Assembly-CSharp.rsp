@@ -360,6 +360,8 @@
 "Assets/Scripts/Scripting3/CollisionDetector.cs"
 "Assets/Scripts/Scripting3/ColorOnCollision.cs"
 "Assets/Scripts/Scripting3/GrowOnCollision.cs"
+"Assets/Scripts/Scripting4/FlipTransformController.cs"
+"Assets/Scripts/Scripting4/SimpleCharacterController.cs"
 -langversion:9.0
 /deterministic
 /optimize+
