@@ -49,6 +49,7 @@
     <Compile Include="Assets\Scripts\Scripting4\SimpleCharacterController.cs" />
     <Compile Include="Assets\Scripts\Scripting3\ApplyForce.cs" />
     <Compile Include="Assets\Scripts\Scripting4\FlipTransformController.cs" />
+    <Compile Include="Assets\Scripts\Scripting5\CharacterAnimationController.cs" />
     <Compile Include="Assets\Scripts\Scripting3\GrowOnCollision.cs" />
     <Compile Include="Assets\Scripts\Scripting3\ColorOnCollision.cs" />
     <Compile Include="Assets\Scripts\Scripting2\Objectmover.cs" />

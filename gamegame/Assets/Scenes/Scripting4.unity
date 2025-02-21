@@ -219,6 +219,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91f19e2ca6daf0349b438a6f8ec05a83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  key1: 275
+  key2: 276
+  direction1: 0
+  direction2: 180
 --- !u!1 &82814640
 GameObject:
   m_ObjectHideFlags: 0
@@ -3692,6 +3696,6 @@ SceneRoots:
   m_Roots:
   - {fileID: 1493081593}
   - {fileID: 206400915}
+  - {fileID: 1589892180}
   - {fileID: 2057135293}
   - {fileID: 1667958560}
-  - {fileID: 1589892180}

@@ -362,6 +362,7 @@
 "Assets/Scripts/Scripting3/GrowOnCollision.cs"
 "Assets/Scripts/Scripting4/FlipTransformController.cs"
 "Assets/Scripts/Scripting4/SimpleCharacterController.cs"
+"Assets/Scripts/Scripting5/CharacterAnimationController.cs"
 -langversion:9.0
 /deterministic
 /optimize-
