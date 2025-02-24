@@ -46,15 +46,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Scripting3\CollisionDetector.cs" />
+    <Compile Include="Assets\Scripts\Scripting5\GroundedDebug.cs" />
     <Compile Include="Assets\Scripts\Scripting4\SimpleCharacterController.cs" />
     <Compile Include="Assets\Scripts\Scripting3\ApplyForce.cs" />
     <Compile Include="Assets\Scripts\Scripting4\FlipTransformController.cs" />
     <Compile Include="Assets\Scripts\Scripting5\CharacterAnimationController.cs" />
+    <Compile Include="Assets\Scripts\Scripting5\WorkingCharacterMover.cs" />
     <Compile Include="Assets\Scripts\Scripting3\GrowOnCollision.cs" />
     <Compile Include="Assets\Scripts\Scripting3\ColorOnCollision.cs" />
     <Compile Include="Assets\Scripts\Scripting2\Objectmover.cs" />
     <Compile Include="Assets\Scripts\Scripting2\TransformController.cs" />
     <Compile Include="Assets\Scripts\Scripting2\ObjectPulse.cs" />
+    <Compile Include="Assets\Scripts\Scripting5\Debug Logger.cs" />
+    <Compile Include="Assets\Scripts\Scripting5\UpgradedCharaterController.cs" />
     <Compile Include="Assets\Scripts\Scripting2\SimpleRotator.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.34f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>

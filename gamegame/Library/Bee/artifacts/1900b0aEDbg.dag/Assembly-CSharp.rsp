@@ -363,6 +363,10 @@
 "Assets/Scripts/Scripting4/FlipTransformController.cs"
 "Assets/Scripts/Scripting4/SimpleCharacterController.cs"
 "Assets/Scripts/Scripting5/CharacterAnimationController.cs"
+"Assets/Scripts/Scripting5/Debug Logger.cs"
+"Assets/Scripts/Scripting5/GroundedDebug.cs"
+"Assets/Scripts/Scripting5/UpgradedCharaterController.cs"
+"Assets/Scripts/Scripting5/WorkingCharacterMover.cs"
 -langversion:9.0
 /deterministic
 /optimize-
