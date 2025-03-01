@@ -22,8 +22,8 @@ public class WorkingCharacterMover : MonoBehaviour
     private void Update()
     {
         MoveCharacter();
-        JumpCharacter();
         ApplyGravity();
+        JumpCharacter();
         KeepCharacterOnXAxis();
     }
 

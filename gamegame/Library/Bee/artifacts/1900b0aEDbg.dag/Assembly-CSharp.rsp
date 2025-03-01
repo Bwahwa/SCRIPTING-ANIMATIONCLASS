@@ -367,6 +367,7 @@
 "Assets/Scripts/Scripting5/GroundedDebug.cs"
 "Assets/Scripts/Scripting5/UpgradedCharaterController.cs"
 "Assets/Scripts/Scripting5/WorkingCharacterMover.cs"
+"Assets/Scripts/Spripting 6/TriggerEventBehaviour.cs"
 -langversion:9.0
 /deterministic
 /optimize-
